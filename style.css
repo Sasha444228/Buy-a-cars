@@ -1,0 +1,30 @@
+img{
+	height:200px;
+
+}
+body{
+	background-color: #150BD9;
+	
+}
+div{
+	display: inline-block;
+	width: 400px;
+	text-align: center;
+	background-color: #6E0BD9;
+	vertical-align: top;
+	border: 10px dashed black;
+	margin: 200px
+}
+a{text-decoration: none;
+	color: white;
+	font-size:18pt; 
+	height: 40px;
+}
+h1{color: white
+}
+.minecrafttop{
+	background: black;
+border-radius: 50px;
+height: 60px;
+margin: 0;
+}
